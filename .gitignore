@@ -28,6 +28,12 @@
 /tmp/storage/*
 !/tmp/storage/
 !/tmp/storage/.keep
+.env*
+.idea/
+.DS_Store
+.envrc
+/.tmuxinator.yml
+/.dir-locals.el
 
 /public/assets
 
